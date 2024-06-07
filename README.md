@@ -1,8 +1,12 @@
-## Hello, I'm Sergio. 👋
+## Hello, I'm Sergio.
 
 <!--
 **sdforero/sdforero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## I've collaborated on:
+
+### Project 1.
+### Project 2.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
