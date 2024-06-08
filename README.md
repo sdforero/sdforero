@@ -13,7 +13,7 @@ Soy un desarrollador apasionado por la tecnología y el código abierto. Tengo e
 
 Aquí algunos de los proyectos en los que he trabajado:
 
-1. **[YouTube analysis](https://github.com/juanperez/weather-app)**  
+1. **[YouTube analysis](https://github.com/sdforero/YouTube/tree/main))**  
    Una aplicación web que muestra el clima actual de cualquier ciudad utilizando la API de OpenWeatherMap. Tecnologías utilizadas: HTML, CSS, JavaScript.
 
 Puedes ver más de mis proyectos en mi [repositorio de GitHub](https://github.com/juanperez).
