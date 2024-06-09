@@ -7,6 +7,8 @@ With over 11 years of experience in designing, developing, and evaluating e-lear
 Here are some of the projects I have worked on:
 
 1. **[Amazon](https://github.com/sdforero/Amazon)**  
-   Una aplicación web que muestra el clima actual de cualquier ciudad utilizando la API de OpenWeatherMap. Tecnologías utilizadas: HTML, CSS, JavaScript.
+   This project analyzes Amazon product reviews to understand user sentiment, identify top and poorly-rated products, and examine frequent user behavior. Utilizing Python libraries like Pandas, TextBlob, and Matplotlib, the analysis revealed positive sentiment trends, highlighted products for marketing, and identified user patterns for targeted promotions.
+2. **[Booking](https://github.com/sdforero/Amazon)**  
+   Under development.
 
 You can see more of my projects in my [GitHub repository](https://github.com/sdforero?tab=repositories).
