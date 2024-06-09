@@ -1,17 +1,10 @@
-Allô, hola, hello, I'm Sergio!
+## Hola, allô, hi, I'm Sergio!
 
-With over eleven years' experience in digital learning solutions within large-scale companies (90,000 employees), including retail, energy, education, and finance, I have acquired extensive expertise in the analysis, design, development, and evaluation of e-learning and blended learning programs. In addition, I have demonstrated my ability to ensure the integrity and effective use of HR data to support strategic initiatives.
+With over 11 years of experience in designing, developing, and evaluating e-learning programs for large corporations across diverse industries (retail, energy, education, finance), I possess a comprehensive skillset in learning analytics, instructional design, and e-learning development. I am proficient in ensuring data quality and utilizing HR data for strategic decision-making.
 
-Soy un desarrollador apasionado por la tecnología y el código abierto. Tengo experiencia en desarrollo web y ciencia de datos. Me encanta aprender nuevas tecnologías y colaborar en proyectos interesantes.
+## Projects
 
-## Projects:
-
-- 🌱 Actualmente, estoy aprendiendo React y Node.js.
-- 👯 Busco colaborar en proyectos de código abierto relacionados con la web y análisis de datos.
-
-## Proyectos
-
-Aquí algunos de los proyectos en los que he trabajado:
+Here are some of the projects I have worked on:
 
 1. **[Amazon](https://github.com/sdforero/Amazon)**  
    Una aplicación web que muestra el clima actual de cualquier ciudad utilizando la API de OpenWeatherMap. Tecnologías utilizadas: HTML, CSS, JavaScript.
