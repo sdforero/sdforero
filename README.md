@@ -9,4 +9,4 @@ Here are some of the projects I have worked on:
 1. **[Amazon](https://github.com/sdforero/Amazon)**  
    Una aplicación web que muestra el clima actual de cualquier ciudad utilizando la API de OpenWeatherMap. Tecnologías utilizadas: HTML, CSS, JavaScript.
 
-Puedes ver más de mis proyectos en mi [repositorio de GitHub](https://github.com/juanperez).
+You can see more of my projects in my [GitHub repository](https://github.com/sdforero?tab=repositories).
