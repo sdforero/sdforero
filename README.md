@@ -1,4 +1,4 @@
-## Hola, allô, hi, I'm Sergio!
+## Hola/Allô/Hi, I'm Sergio!
 
 With over 11 years of experience in designing, developing, and evaluating e-learning programs for large corporations across diverse industries (retail, energy, education, finance), I possess a comprehensive skillset in learning analytics, instructional design, and e-learning development. I am proficient in ensuring data quality and utilizing HR data for strategic decision-making.
 
