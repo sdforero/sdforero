@@ -11,6 +11,6 @@ Here are some of the projects I have worked on:
 2. **[YouTube](https://github.com/sdforero/YouTube)**  
    This project analyzes audience engagement on YouTube videos. It explores how factors like comments, likes/dislikes, and emojis influence viewership and audience entertainment. The analysis suggests positive comments and emotional engagement (punctuation, emojis) correlate with video views, indicating an entertained audience is key to video success.
 3. **[Uber](https://github.com/sdforero/Uber)**  
-   Under development.
+   Analyzed Uber trip data in NYC for the first half of 2015 to identify usage patterns and trends. Utilized pandas, numpy, seaborn, matplotlib, plotly, and folium for data manipulation and visualization. Findings revealed key insights on temporal distribution and dispatch efficiency.
    
 You can see more of my projects in my [GitHub repository](https://github.com/sdforero?tab=repositories).
